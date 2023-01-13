@@ -132,4 +132,4 @@ Execute the program
  ![HTML VALIDATOR](http://sjanarthanan.student.saveetha.in:8000/static/images/vaild.png?raw=true)
 
 # RESULT
-the program for creating slot timetable is completed successfullyS 
+the program for creating slot timetable is completed successfully
